@@ -1,0 +1,24 @@
+# This is a header
+With some paragraph text on the next line just below.
+
+Chapter 1 
+This is a Chapter
+
+With some paragraph text below, with a blank line seperating it.
+
+## This is another header
+With some paragraph text on the next line just below.
+
+Clause IV. 
+This is a Clause
+With some paragraph text on the next line just below.
+
+Chapter 2. This is another Chapter
+With two lines of paragraph text
+split with a line break. If it all works, these split lines
+should appear as one line.
+
+Appendix 7: An Appendix
+
+This is a heading with no start word
+With some paragraph text on the next line just below.

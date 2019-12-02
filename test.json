@@ -1,0 +1,18 @@
+[
+ {
+  "Type": "P",
+  "Body": "Sample paragraph document "
+ },
+ {
+  "Type": "P",
+  "Body": "This is a simple document, set out in paragraphs, to test the abilities of the document scanner to take a plain text file and turn it into a structured format. "
+ },
+ {
+  "Type": "P",
+  "Body": "This is needed because very long and legalistic documents can: (1) be hard to read, (2) make it difficult to find relevant information, but (3) they tend to be highly structured. "
+ },
+ {
+  "Type": "P",
+  "Body": "If we can scan the plain text and turn it into XML or JSON, then it can be added to a database for processing. This would allow users to search it easily, and present it in a readable way."
+ }
+]
